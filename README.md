@@ -4,7 +4,7 @@
  <img align="left" height="150" width="150" alt="chatbot" src="https://cdn.dribbble.com/users/37530/screenshots/2937858/drib_blink_bot.gif">
  <p>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=fraurino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraurino&layout=compact&langs_count=7&theme=dark"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraurino&layout=compact&langs_count=5&theme=dark"/>
 
 </div>
  <div style="display: inline_block"><br>
