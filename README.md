@@ -43,8 +43,8 @@
 </div>
 
 ### Abstract
-- 🌱 Desenvolvedor, Músico Baixista, Gamer, Cristão, Pai de Família.
-- 💙 Interesse: Delphi, Lazarus, Flutter, VSCode,  html, css, javaScript, angular, c#.
+- 🌱 Cristão, Filho, Marido, Pai, Desenvolvedor, Baixista, Gamer;
+- 💙 Code: Delphi, Lazarus, Flutter, VSCode.
 - :video_game: Gosta de jogar Call of Duty Mobile[CodMOB]? É só chamar, vamos subir de patente juntos ou não hehehe
 
  
