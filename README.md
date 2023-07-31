@@ -45,8 +45,6 @@
 ### Abstract
 - 🌱 Cristão, Filho, Marido, Pai, Desenvolvedor, Baixista, Gamer;
 - 💙 Code: Delphi, Lazarus, Flutter, VSCode.
-- :video_game: Gosta de jogar Call of Duty Mobile[CodMOB]? É só chamar, vamos subir de patente juntos ou não hehehe
-
  
 ### Contact :iphone:
 
